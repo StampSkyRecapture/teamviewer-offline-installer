@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="TeamViewer interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Adobe_After_Effects_screenshot.png/1280px-Adobe_After_Effects_screenshot.png" />
+<img width="2880" height="1620" alt="TeamViewer interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Screenshot_TeamViewer_16.1.png/1280px-Screenshot_TeamViewer_16.1.png" />
 </div>
 
 ---
